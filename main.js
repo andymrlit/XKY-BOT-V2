@@ -1,4 +1,4 @@
-//base by DGXeon (Xeon Bot Inc.)
+//base by andy (XKY Bot Inc.)
 
 require('./settings')
 const makeWASocket = require("@whiskeysockets/baileys").default
