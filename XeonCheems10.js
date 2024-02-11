@@ -6600,7 +6600,6 @@ break
 │𝗕𝗼𝘁 : XKY BOT PRO
 │𝗢𝘄𝗻𝗲𝗿 𝗡𝗼: +17862755061
 │𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
-│𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
 │𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 │𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length} User
 │𝗧𝗼𝘁𝗮𝗹 𝗖𝗵𝗮𝘁 : ${Object.keys(global.db.data.chats).length} Chat/Gc
@@ -6611,6 +6610,7 @@ break
 │✑ xᴋʏ.ᴊᴀᴄᴇ_3.0🖤🥷🏾
 │✑ ZWING MAXY 🙂
 │✑ Haendel 🌚 ${readmore}
+│
 └─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
 │𝗧𝗶𝗺𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
