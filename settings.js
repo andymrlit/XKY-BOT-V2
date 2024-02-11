@@ -18,6 +18,7 @@ global.websitex = "https://www.youtube.com/@andymd"
 global.wagc = "https://chat.whatsapp.com/JmZ7o3ajZfwCk7GLQj4SVv"
 global.themeemoji = '🪀'
 global.wm = "XKY Bot Inc."
+global.ram_usage = 900000000
 global.botscript = 'https://github.com/andymrlit/XKYV2' //script link
 global.packname = "Sticker By"
 global.author = "TEAM XKY BOT"
