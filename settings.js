@@ -27,7 +27,7 @@ global.premium = ["6283133965901"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
+global.typemenu = 'v1' // evite chnje sa
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '62' //set anti foreign number country code
@@ -42,7 +42,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'THABKS FOR USING XKY BOT!'
+    success: 'THANKS FOR USING XKY BOT!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
