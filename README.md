@@ -10,7 +10,9 @@
 
  VERSION (2024-01-29) ([Whatsapp can't see messages]) [Fixed ]
 
-> [🔄Please Follow Me🤭](https://github.com/andymrlit)
+> [🔄Please Follow Andy🤭](https://github.com/andymrlit)
+
+> [🔄Please Follow Jace🤭](https://github.com/Gotta010)
 
 <img src="./Android/database/andy-1.gif" alt="Loading..." width="310"/>
 
@@ -49,7 +51,3 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 -----
 - [x] SEE THIS EXEMPLE <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
 -----
-<a href="https://github.com/Gotta010"><img src="https://github.com/Gotta010.png?size=100" width="100" height="100"></a> | [![MAXY](https://github.com/MaxyHacker.png?size=100)](https://github.com/MaxyHacker) 
----|---
-[Mrlit](https://github.com/mrlit-a)  | [Nurutomo](https://github.com/mrlit-a)
-Owner andy md | Constributor |
