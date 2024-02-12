@@ -30,11 +30,10 @@
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/andymrlit/XKY-BOT-V2/fork)
  
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
-
 ----
 ### 🟣 ACTIVAR EN HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/?/XKY-BOT-V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/?/XKY-BOT-V2)
+
 ### 👇 HERE ARE THE BUILDPACKS TO ADD ON HEROKU: 
 ```bash
 heroku/nodejs
