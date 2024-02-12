@@ -15,7 +15,7 @@ global.botname = 'XKY BOT MD' //ur bot name
 global.ownernumber = '50943772445' //ur owner number
 global.ownername = '🍁🎶𝑀𝑅_𝑂𝐿𝐼 🔱' //ur owner name
 global.websitex = "https://www.youtube.com/@andymd"
-global.wagc = "https://chat.whatsapp.com/JmZ7o3ajZfwCk7GLQj4SVv"
+global.wagc = "https://chat.whatsapp.com/Cf1q8yZsEMlIfrZkCeHeQH"
 global.themeemoji = '🪀'
 global.wm = "XKY Bot Inc."
 global.ram_usage = 900000000
@@ -24,11 +24,11 @@ global.packname = "Sticker By"
 global.author = "TEAM XKY BOT"
 global.creator = "17862755061@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6283133965901"] // Premium User
+global.premium = ["17862755061"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v1' // evite chnje sa
+global.typemenu = 'v3' // evite chnje sa
 global.typereply = 'v1' // pa change sa pou pa bay ere
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '62' //set anti foreign number country code
