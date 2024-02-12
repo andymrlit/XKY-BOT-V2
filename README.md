@@ -1,7 +1,7 @@
 ----
 ### 🟣 ACTIVAR EN HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andymrlit/XKY-BOT-V2) 
-### 👇 Añada lo siguente al Buildpack: 
+### 👇 HERE ARE THE BUILDPACKS TO ADD ON HEROKU: 
 ```bash
 heroku/nodejs
 ```
