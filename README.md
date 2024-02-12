@@ -49,3 +49,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 -----
 - [x] SEE THIS EXEMPLE <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
 -----
+<a href="https://github.com/Gotta010"><img src="https://github.com/Gotta010.png?size=100" width="100" height="100"></a> | [![MAXY](https://github.com/MaxyHacker.png?size=100)](https://github.com/MaxyHacker) 
+---|---
+[Mrlit](https://github.com/mrlit-a)  | [Nurutomo](https://github.com/mrlit-a)
+Owner andy md | Constributor |
