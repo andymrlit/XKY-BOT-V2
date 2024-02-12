@@ -31,7 +31,6 @@
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/andymrlit/XKY-BOT-V2/fork)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
-## 🌚➾ [Then Deploy The bot From HERE](https://repl.it/badge/github/?/XKY-BOT-V2)](https://xky-bot-pairing.onrender.com/)
 
 ----
 ### 🟣 ACTIVAR EN HEROKU 
