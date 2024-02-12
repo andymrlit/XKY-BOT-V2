@@ -29,6 +29,8 @@
 ## 🙂➾ [GET YOUR SESSION FILE HERE](https://xky-bot-pairing.onrender.com/)
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/andymrlit/XKY-BOT-V2/fork)
+
+### 🙂 AFTER ADD YOUR CREDS FILE TO SESSION FOLDER 📁
  
 ----
 ### 🟣 ACTIVAR EN HEROKU 
