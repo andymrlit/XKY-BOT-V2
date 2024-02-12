@@ -29,7 +29,7 @@ global.hituet = 0
 
 //bot sett
 global.typemenu = 'v1' // evite chnje sa
-global.typereply = 'v2' // reply type 'v1' => 'v3'
+global.typereply = 'v1' // pa change sa pou pa bay ere
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '62' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
